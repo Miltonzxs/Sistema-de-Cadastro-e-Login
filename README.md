@@ -1,5 +1,5 @@
 # Sistema-de-Cadastro-e-Login
-
+Grupo: José Milton, Tayron Yuri, Manoel de Cristo, Ronald Bruno, João Victor e Carlos Garcia
 # README
 
 ## Descrição do nosso projeto
